@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm [Sarthak Patil]
 
-<!--
-**sarthakpatil29/sarthakpatil29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Game Developer | 💻 Programmer | 🔐 Cybersecurity Enthusiast | 📱 Social Media Expert  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎮 I’m a **Unity Game Developer**
+- 💻 Skilled in **C++, C#, Python**
+- 📱 Also a **Social Media Expert**
+- 🔐 Interested in **Cybersecurity & AI**
+- 🚀 Passionate about building games, tech & growth
+
+---
+
+## 🌐 Connect With Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919422464246)
+
+---
+
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sarthakpatil29&show_icons=true&theme=tokyon
