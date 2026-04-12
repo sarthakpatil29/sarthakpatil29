@@ -1,6 +1,8 @@
 ## 🐍 Contribution Snake
 ![snake](https://github.com/sarthakpatil29/sarthakpatil29/blob/output/github-contribution-grid-snake.svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sarthakpatil29&color=blueviolet)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Cybersecurity+Enthusiast;AI+Learner;Social+Media+Expert" />
 </p>
