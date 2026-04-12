@@ -1,6 +1,3 @@
-## 🍕 Buy Me a Pizza
-[![UPI](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-orange?style=for-the-badge&logo=googlepay)](upi://pay?pa=patilsarthak2901@oksbi&pn=YourName&cu=INR)
-
 ## 🐍 Contribution Snake
 ![snake](https://github.com/sarthakpatil29/sarthakpatil29/blob/output/github-contribution-grid-snake.svg)
 
@@ -40,3 +37,6 @@
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=sarthakpatil29&show_icons=true&theme=tokyon
+
+## 🍕 Buy Me a Pizza
+[![UPI](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-orange?style=for-the-badge&logo=googlepay)](upi://pay?pa=patilsarthak2901@oksbi&pn=YourName&cu=INR)
