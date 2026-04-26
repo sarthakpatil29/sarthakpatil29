@@ -33,6 +33,7 @@
 ![C#](https://img.shields.io/badge/CSharp-purple?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 
 ---
